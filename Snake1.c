@@ -6,12 +6,6 @@
 #include <stdbool.h>
 #include <time.h>
 
-// Yuval Saybak // ID : 313524837
-//In the game the user gets a menu, in which he can currently select only the first game option or select exit. 
-//The game starts only after the user has selected the first game option and pressed one of the arrow keys.
-//During the game a user navigates the snake to eat the food one by one. When the snake has eaten 10 "dollars" the user will receive a "victory message". 
-//If the snake collides with itself or within the boundaries of the game board during the game, the user will receive a "GAME OVER " message.
-
 // Permanent variables
 #define UP 72  // Up Arrow 
 #define DOWN 80 // Down Arrow 
