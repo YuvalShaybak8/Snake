@@ -1,4 +1,4 @@
-# Snake
+# Snake Terminal Game
 
 Simple snake game written in C
 
